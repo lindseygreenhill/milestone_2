@@ -1,0 +1,18 @@
+---
+title: "ms_2"
+author: "Lindsey Greenhill"
+date: "02/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ethiopia Economic Development
+I found this project to be very cleanly done. I think that the nature of the data collected lended itself well to being graphed, as it was all pretty straightforward change over time numeric data. However, I think that the project could have been improved by including an analysis of the graphs on the same page as the graphs. I found myself a little bit lost trying to draw connections between the information on all of the graphs and the goal of the project. Another con of this project is that the data used wasn't complete (as acknowledged by the author), but at the same time, a pro is that the data came from very reputable sources (The World Bank and the UN). Overall, I think that this project could have been more interesting if showed the state of the country before and after the shift in regime type. 
+
+
+## Effects of Democracy Around the World (Is Democracy the Best Form of Government?)
+
+I found this project very impressive. I think a pro of this project is that it included multiple different data sets and considered many different factors to measure the effects of democracy. I think another pro is that it included a fair amount of examples of countries that had experienced changes in government types. However, I think the project could have been made better if an explanation was provided as to why the project considered those particular countries as opposed to others. With regards to the visualizations of the data, I think a pro is that the themes and form of all of the graphs were all consistent, because it made is easy to compare and relate all of the data. I also appreciated how the author provided an analysis of the graphs on the same page as the graphs, as it was very helpful in drawing conclusions. I think a con about this project was that I didn't completely understand the regression visualizations and I wish there had been more of an explanation of those.
